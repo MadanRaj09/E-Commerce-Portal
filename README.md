@@ -14,7 +14,7 @@ d.Execute 'python3 manage.py makemigrations'
 
 e.Then Execute 'python3 manage.py migrate'
 
-f.Then Execute 'python manage.py runserver'
+f.Then Execute 'python3 manage.py runserver'
 
 g.Open a browser(pref. Google Chrome) and navigate to localhost:8000
 
