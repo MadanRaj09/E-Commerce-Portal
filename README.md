@@ -6,15 +6,15 @@ A Simple E-Commerce Portal made in Django (Under Development)
 
 a.Install Django and Python3.6
 
-b.Open the terminal and run git clone https://github.com/JayjeetAtGithub/E-Commerce-Portal.git
+b.Open the terminal and run git clone it https://github.com/MadanRaj09/E-Commerce-Portal.git
 
 c.cd into E-Commerce-Portal 'cd E-Commerce-Portal'
 
-d.Execute 'python3.6 manage.py makemigrations'
+d.Execute 'python3 manage.py makemigrations'
 
-e.Then Execute 'python3.6 manage.py migrate'
+e.Then Execute 'python3 manage.py migrate'
 
-f.Then Execute 'python3.6 manage.py runserver'
+f.Then Execute 'python manage.py runserver'
 
 g.Open a browser(pref. Google Chrome) and navigate to localhost:8000
 
